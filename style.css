@@ -1,0 +1,78 @@
+body {
+  background-color: #ebeff2;
+}
+
+.card {
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+}
+
+.allergy {
+  position: relative;
+  bottom: 8px;
+  color: grey;
+}
+
+.head {
+  color: #97989a;
+  font-size: 12px;
+}
+
+.bottom {
+  color: grey;
+  font-size: 14px;
+}
+
+button {
+  background-color: #f45e43 !important;
+  border: none !important;
+  transition: all 0.3s ease 0s;
+}
+
+button:hover {
+  background-color: #f67861 !important;
+  transition: all 0.3s ease 0s;
+}
+
+.liseraie {
+  border-right: 3px solid #f45e43 !important;
+}
+
+.flexBottom {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  gap: 4vw;
+}
+
+.flexBottom > div > img {
+  width: 400px;
+}
+
+h1 {
+  text-align: center;
+  padding: 2rem;
+}
+
+h2 {
+  text-align: center;
+}
+
+.zerah > img {
+  border-radius: 100%;
+  width: 200px;
+  display: block;
+}
+
+.zerah {
+  display: flex;
+  justify-content: center;
+}
+
+.contact {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}/*# sourceMappingURL=style.css.map */
